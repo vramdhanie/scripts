@@ -1,7 +1,7 @@
 #!/bin/bash
 
 size=500x
-quality=80
+quality=90
 
 if [[ -z $1 ]]; then
   echo Please specify a file name
